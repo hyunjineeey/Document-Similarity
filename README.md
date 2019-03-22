@@ -4,7 +4,7 @@
 
 *March 6, 2019*
 
-**You only need to see `similar.ml` file which is what I made.**
+**You only need to see `similar.ml` file.**
 
 ### Reading the file list
 
