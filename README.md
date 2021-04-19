@@ -1,6 +1,6 @@
 # Document-Similarity
 
-**You only need to see `similar.ml` file.**
+**`similar.ml` is the one you are looking for.**
 
 ### Reading the file list
 
