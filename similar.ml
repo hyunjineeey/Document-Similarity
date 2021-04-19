@@ -1,14 +1,6 @@
-(*
-Name  : Hyunjin Jae
-x500  : jaexx003
-Dates : Mar 6, 2019
-Class : CSCI 2041 - HW3
-*)
-
 open SimUtil
 
 let ngram_n = 4
-(* Your code goes here: *)
 
 (* Define the function that lower-cases and filters out non-alphabetic characters *)
 let filter_chars s = 
